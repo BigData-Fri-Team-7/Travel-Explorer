@@ -2,7 +2,8 @@
 # Travel Explorer
 
 A comprehensive travel planning application with AI-powered itinerary generation.
-##FrontEnd:http://34.58.131.194:8501 ##Backend:http://34.58.131.194:8000
+##FrontEnd:http://34.58.131.194:8501 
+##Backend:http://34.58.131.194:8000
 #Codelab: https://codelabs-preview.appspot.com/?file_id=1uSlXhU95UR4bijy5QAJ1o1SPh82hL6CXs-EE4fSC6I4#0
 
 ## 🌟 Features
