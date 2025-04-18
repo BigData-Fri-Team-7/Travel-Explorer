@@ -3,6 +3,8 @@
 
 A comprehensive travel planning application with AI-powered itinerary generation.
 
+#Codelab: https://codelabs-preview.appspot.com/?file_id=1uSlXhU95UR4bijy5QAJ1o1SPh82hL6CXs-EE4fSC6I4#0
+
 ## 🌟 Features
 
 - **Hotel Exploration**: Search and filter hotels based on location, rating, price, and amenities
