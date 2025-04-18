@@ -1,2 +1,3 @@
 # Travel-Explorer
-![image](https://github.com/user-attachments/assets/6cec7e45-53df-44ea-ab0b-a439cf1cb8d6)
+![mermaid-diagram-2025-04-18-164427](https://github.com/user-attachments/assets/5fbf91ee-0be6-4e30-98c4-3eb73024410a)
+
